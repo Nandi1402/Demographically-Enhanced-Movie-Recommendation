@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🎬 Demographically-Enhanced Movie & Book Recommendation System
 
 A Big Data and Machine Learning project that delivers **personalized recommendations** for movies and books by leveraging **user demographics** along with collaborative and content-based filtering techniques.  
@@ -41,7 +41,7 @@ This project solves that by:
 ---
 
 ## 📂 Project Structure
-```
+
 
 demographic-recsys/
 ├── data/                 # Raw & cleaned datasets (MovieLens, Goodreads)
@@ -63,10 +63,10 @@ demographic-recsys/
 ## 🚀 Getting Started
 
 ### 2. Clone the REPO
-```bash
+bash
 git clone https://github.com/<your-username>/demographic-recsys.git
 cd demographic-recsys
-````
+
 
 ### 2. Set up environment
 

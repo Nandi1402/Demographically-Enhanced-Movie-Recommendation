@@ -62,7 +62,7 @@ demographic-recsys/
 
 ## 🚀 Getting Started
 
-### 2. Clone the REPO
+### 1. Clone the REPO
 bash
 git clone https://github.com/<your-username>/demographic-recsys.git
 cd demographic-recsys
